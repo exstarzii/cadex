@@ -1,5 +1,5 @@
 import { Accordion, AccordionDetails, AccordionSummary, TextField, Typography } from '@mui/material';
-import React, { useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import style from './InputPanel.module.css'
 import { CubeDimensions } from '../Types/CubeDimensions';
