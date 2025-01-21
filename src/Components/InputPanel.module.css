@@ -1,0 +1,6 @@
+div.floatPanel{
+  position: absolute;
+  /* opacity: 0.75; */
+  top: 45px;
+  right: 45px;
+}
